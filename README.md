@@ -18,25 +18,25 @@ Desarrollador de software con 6+ años en tecnología, datos y educación. Const
 
 ## 💼 Experiencia
 
-**Analista TI — SURA** · Jul 2023 – Dic 2024
-Interfaces React conectadas a servicios backend e integración de APIs. Automatización con Python y RPA (UiPath). SQL, reportes, KPIs y tickets en producción bajo SLA.
+**Analista TI — SURA** · Jul 2023 – Dic 2024 · 1 año 6 meses
+Interfaces React conectadas a servicios backend e integración de APIs. Automatización con Python y RPA (UiPath) para tareas operativas. SQL, reportes, KPIs y mesa de ayuda: atención de tickets en producción bajo SLA.
 
-**Customer Service — Bancolombia** · Jul 2021 – Oct 2023
+**Customer Service — Bancolombia** · Jul 2021 – Oct 2023 · 2 años 4 meses
 Resolución y escalamiento de tickets con seguimiento de SLA. Análisis de casos en bases de datos para diagnóstico y reportes. Monitoreo de KPIs de servicio en Excel y análisis de indicadores de calidad.
 
-**Customer Service — Tigo** · Oct 2019 – Jun 2021
+**Customer Service — Tigo** · Oct 2019 – Jun 2021 · 1 año 9 meses
 Análisis de casos y reportes de operación en Excel para el seguimiento de indicadores. Gestión de tickets y escalamiento a áreas técnicas. Medición de KPIs de satisfacción y tiempos de resolución.
 
-**Tutor TI de Programación — Cymetria** · Ene – Jun 2026
+**Tutor TI de Programación — Cymetria** · Ene – Jun 2026 · 6 meses
 Diseño de cursos y materiales: lógica de programación, Python y análisis de datos. Dirección técnica de desarrollos llevados a despliegue.
 
-**Tutor TI — AlgoNova** · Nov 2025 – Ago 2026
+**Tutor TI — AlgoNova** · Nov 2025 – Ago 2026 · 10 meses
 Escuela internacional online (90+ países). Python, Roblox Studio (Lua, mundos 3D) y Scratch. Sesiones en vivo y seguimiento del progreso de cada estudiante.
 
-**Coordinador de plataforma de inscripción — Smart Films** · Jun – Sep 2025
+**Coordinador de plataforma de inscripción — Smart Films** · Jun – Sep 2025 · 4 meses
 Administración de plataforma en WordPress: contenidos, usuarios y formularios. Base de datos de inscritos y producción audiovisual del festival.
 
-**STEM Teacher — Colegio Rafael Uribe Uribe** · 2023
+**STEM Teacher — Colegio Rafael Uribe Uribe** · 2023 · 1 año
 Docencia en Ciencias Naturales y Educación Ambiental. Diseño de guías, talleres y evaluaciones.
 
 ## 🎓 Educación y Certificaciones
