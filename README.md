@@ -1,23 +1,110 @@
 # Hola, soy Santiago 👋
 
-**Desarrollador de Software | Datos e IA aplicada** - Medellín, Colombia
+**Software · Web · Automatización · Datos & IA aplicada**
+Medellín, Colombia (Remoto) · [santiago.marulandal@udea.edu.co](mailto:santiago.marulandal@udea.edu.co) · +57 300 867 4483
 
-Trabajé como dev en Sura (React, APIs, SQL, automatizaciones con IA) y como tutor de programación, datos y ciberseguridad. Construyo productos reales con IA aplicada.
+Desarrollador de software con 6+ años en tecnología, datos y educación. Construyo productos reales con IA aplicada: sitios corporativos, landing pages, tiendas online, material educativo digital y plataformas con chatbots y RAG. En Sura automatizé procesos manuales que ocupaban meses de trabajo.
 
 ## 🚀 Proyectos Destacados
 
-| Proyecto | Qué es | Demo |
-|----------|--------|------|
-| **[tech-interview-lab](https://github.com/Marusan94/tech-interview-lab)** | Plataforma interactiva de prep. entrevistas técnicas: 16 retos SQL + 3 JS, viaje gamificado por islas, tutor IA, repaso espaciado | [🚀 Live](https://tech-interview-bwx5ib0ib-maru-de07.vercel.app) |
-| **[Terramind](https://github.com/Marusan94/Terramind)** | Inteligencia ambiental para el Valle de Aburrá: mapa 3D, calidad del aire en tiempo real y copiloto con IA | [Ver en vivo](https://terramind-mu.vercel.app) |
-| **[Eduanalytics](https://github.com/Marusan94/Eduanalytics)** | Hub de analítica educativa y datos con Streamlit: analizar → evaluar → asistir → actuar | [Ver en vivo](https://eduanalytics.onrender.com) |
-| **[pulso-github](https://github.com/Marusan94/pulso-github)** | Ranking en español de los 500 repos con más estrellas + tendencias, 17 temas | [Ver en vivo](https://marusan94.github.io/pulso-github/) |
+### Terramind — Plataforma de calidad del aire con IA
+`React 18/TS` · `Tailwind` · `FastAPI` · `PostgreSQL/PostGIS` · `Redis` · `Multi-LLM` · `Docker` · `CI/CD`
+
+Monitoreo del Valle de Aburrá con datos en vivo: SIATA (PM2.5/PM10 y AQI por comuna), radar de lluvia, niveles del agua y vegetación en mapa 3D; copiloto de IA con RAG normativo.
+
+[Ver en vivo](https://terramind-mu.vercel.app) · [Código](https://github.com/Marusan94/Terramind)
+
+### DQ Observatory — Herramienta web de calidad de datos
+`React` · `TypeScript` · `FastAPI` · `Pandas` · `PostgreSQL/SQLite` · `Docker`
+
+Evalúa datasets antes de producción: carga CSV/XLSX/JSON, perfilado automático, puntaje por dimensiones, detección de duplicados, vacíos y derivas, con limpieza guiada y deshacer.
+
+[Código](https://github.com/Marusan94/dq-observatory)
+
+### EDU.CORE — Plataforma web de gestión estudiantil
+`Java Spring Boot` · `JPA` · `JavaScript` · `CSS` · `SQL` · `Docker`
+
+Gestión y acompañamiento estudiantil: API REST por capas, autenticación por roles, módulos académicos y frontend web con persistencia relacional.
+
+[Código](https://github.com/Marusan94/plataforma-estudiantil)
+
+### Tech Interview Lab — Plataforma web de práctica SQL
+`Next.js` · `TypeScript` · `Tailwind` · `SQLite/WASM` · `Tutor con IA` · `Vitest`
+
+Preparación técnica gamificada: 16 retos SQL ejecutados en el navegador + 3 de JS, tutor con IA (Gemini), repaso espaciado y seguimiento de progreso.
+
+[🚀 Live](https://tech-interview-bwx5ib0ib-maru-de07.vercel.app) · [Código](https://github.com/Marusan94/tech-interview-lab)
+
+### Pulso GitHub — Contenido digital + analytics
+`Python` · `GitHub API` · `GitHub Actions` · `Playwright`
+
+Ranking vivo del ecosistema en español (500 repos + 200 tendencias): buscador, analytics, visualización 3D y actualización semanal automática sin intervención.
+
+[Ver en vivo](https://marusan94.github.io/pulso-github/) · [Código](https://github.com/Marusan94/pulso-github)
+
+### DataFlow — Hub de analítica de datos agnóstico
+`Python` · `Streamlit` · `Pandas`
+
+Analítica educativa y de datos en un hub: analizar → evaluar → asistir → actuar.
+
+[Ver en vivo](https://eduanalytics.onrender.com) · [Código](https://github.com/Marusan94/DataFlow)
+
+## 💼 Experiencia
+
+**Analista TI — SURA** · Jul 2023 – Dic 2024
+Interfaces React conectadas a servicios backend e integración de APIs. Automatización con Python y RPA (UiPath). SQL, reportes, KPIs y tickets en producción bajo SLA.
+
+**Customer Service Specialist — Bancolombia** · Jul 2021 – Oct 2023
+Soporte multicanal (voz y chat) a 2M+ clientes del sector financiero. Resolución de casos, seguimiento de SLA y consulta de bases de datos.
+
+**Customer Service Specialist — Tigo** · Oct 2019 – Jun 2021
+Soporte multicanal a clientes de telecomunicaciones. Manejo de casos y escalamiento con foco en satisfacción del cliente.
+
+**Tutor TI de Programación — Cymetria** · Ene – Jun 2026
+Diseño de cursos y materiales: lógica de programación, Python y análisis de datos. Dirección técnica de desarrollos llevados a despliegue.
+
+**Tutor TI — AlgoNova** · Nov 2025 – Ago 2026
+Escuela internacional online (90+ países). Roblox Studio (Lua, mundos 3D) y Scratch. Sesiones en vivo y seguimiento de progreso.
+
+**Coordinador de plataforma de inscripción — Smart Films** · Jun – Sep 2025
+Administración de plataforma en WordPress: contenidos, usuarios y formularios. Base de datos de inscritos y producción audiovisual del festival.
+
+**STEM Teacher — Colegio Rafael Uribe Uribe** · 2023
+Docencia en Ciencias Naturales y Educación Ambiental. Diseño de guías, talleres y evaluaciones.
+
+## 🎓 Educación y Certificaciones
+
+- Lic. Ciencias Naturales y Ed. Ambiental — Universidad de Antioquia, 2025
+- Técnico en Desarrollo de Software — Cesd, 2024
+- Examen de competencia lectora en inglés — Escuela de Idiomas, UdeA, 2026
+- Claude 101 — Anthropic, 2026
+- WordPress No-Code — Platzi, 2025
+- SQL/MySQL · FastAPI · Python · Java Spring — Platzi, 2024
 
 ## 🛠️ Stack
 
-`React` `TypeScript` `Python` `FastAPI` `SQL/Postgres` `Tailwind` `Pandas` `Streamlit` `MapLibre` `Docker` `GitHub Actions` · IA aplicada: Groq, Gemini, OpenRouter
+**Programación** — React 18 · TypeScript · JavaScript · Tailwind · HTML/CSS responsive · Python · FastAPI · APIs REST · SQL/MySQL · PostgreSQL · POO · WordPress · Elementor · WooCommerce
+
+**Automatización y RPA** — Python (scripts, ETL, scraping) · UiPath · n8n (webhooks, Docker) · integración de APIs · chatbots y asistentes con LLMs (Groq, Gemini, OpenRouter)
+
+**DevOps y calidad** — Git/GitHub · Actions (CI/CD) · Docker · Vercel/Render · Vitest · Playwright E2E
+
+**Diseño, 3D y contenido** — Usabilidad y mobile-first · Figma · modelado de mundos 3D (Roblox Studio) · creación por bloques (Scratch) · producción y edición audiovisual · copy web y redes
+
+## 🏆 Logros
+
+- **SURA:** automatizé procesos manuales engorrosos y reduje meses de trabajo a una semana.
+- **SURA:** despejé el backlog vencido con automatización y SQL; tiempo y calidad mejorados en 40%, equipo en 98%.
+- **Tigo y Bancolombia:** elevé la calidad del servicio a 98% con seguimiento de indicadores.
+- Formación y certificación de estudiantes internacionales de Latinoamérica.
+
+## 🌐 Idiomas
+
+Español — Nativo · Inglés — B2+ técnico
 
 ## 📫 Contacto
 
-- LinkedIn: [santi-marulanda](https://linkedin.com/in/santi-marulanda)
-- Email: santiago.marulandal@udea.edu.co
+- **LinkedIn:** [santi-marulanda](https://linkedin.com/in/santi-marulanda)
+- **Email:** santiago.marulandal@udea.edu.co
+- **Teléfono:** +57 300 867 4483
+- **GitHub:** [Marusan94](https://github.com/Marusan94)
