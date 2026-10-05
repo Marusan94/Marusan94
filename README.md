@@ -7,47 +7,14 @@ Desarrollador de software con 6+ años en tecnología, datos y educación. Const
 
 ## 🚀 Proyectos Destacados
 
-### Terramind — Plataforma de calidad del aire con IA
-`React 18/TS` · `Tailwind` · `FastAPI` · `PostgreSQL/PostGIS` · `Redis` · `Multi-LLM` · `Docker` · `CI/CD`
-
-Monitoreo del Valle de Aburrá con datos en vivo: SIATA (PM2.5/PM10 y AQI por comuna), radar de lluvia, niveles del agua y vegetación en mapa 3D; copiloto de IA con RAG normativo.
-
-[Ver en vivo](https://terramind-mu.vercel.app) · [Código](https://github.com/Marusan94/Terramind)
-
-### DQ Observatory — Herramienta web de calidad de datos
-`React` · `TypeScript` · `FastAPI` · `Pandas` · `PostgreSQL/SQLite` · `Docker`
-
-Evalúa datasets antes de producción: carga CSV/XLSX/JSON, perfilado automático, puntaje por dimensiones, detección de duplicados, vacíos y derivas, con limpieza guiada y deshacer.
-
-[Código](https://github.com/Marusan94/dq-observatory)
-
-### EDU.CORE — Plataforma web de gestión estudiantil
-`Java Spring Boot` · `JPA` · `JavaScript` · `CSS` · `SQL` · `Docker`
-
-Gestión y acompañamiento estudiantil: API REST por capas, autenticación por roles, módulos académicos y frontend web con persistencia relacional.
-
-[Código](https://github.com/Marusan94/plataforma-estudiantil)
-
-### Tech Interview Lab — Plataforma web de práctica SQL
-`Next.js` · `TypeScript` · `Tailwind` · `SQLite/WASM` · `Tutor con IA` · `Vitest`
-
-Preparación técnica gamificada: 16 retos SQL ejecutados en el navegador + 3 de JS, tutor con IA (Gemini), repaso espaciado y seguimiento de progreso.
-
-[🚀 Live](https://tech-interview-bwx5ib0ib-maru-de07.vercel.app) · [Código](https://github.com/Marusan94/tech-interview-lab)
-
-### Pulso GitHub — Contenido digital + analytics
-`Python` · `GitHub API` · `GitHub Actions` · `Playwright`
-
-Ranking vivo del ecosistema en español (500 repos + 200 tendencias): buscador, analytics, visualización 3D y actualización semanal automática sin intervención.
-
-[Ver en vivo](https://marusan94.github.io/pulso-github/) · [Código](https://github.com/Marusan94/pulso-github)
-
-### DataFlow — Hub de analítica de datos agnóstico
-`Python` · `Streamlit` · `Pandas`
-
-Analítica educativa y de datos en un hub: analizar → evaluar → asistir → actuar.
-
-[Ver en vivo](https://eduanalytics.onrender.com) · [Código](https://github.com/Marusan94/DataFlow)
+| Proyecto | Stack | Qué es | Demo |
+|----------|-------|--------|------|
+| **[Terramind](https://github.com/Marusan94/Terramind)** | `React 18/TS` · `Tailwind` · `FastAPI` · `PostgreSQL/PostGIS` · `Redis` · `Multi-LLM` · `Docker` · `CI/CD` | Calidad del aire con IA: datos en vivo de SIATA (PM2.5/PM10 y AQI por comuna), radar de lluvia, mapa 3D, copiloto con RAG normativo | [Ver en vivo](https://terramind-mu.vercel.app) |
+| **[DQ Observatory](https://github.com/Marusan94/dq-observatory)** | `React` · `TypeScript` · `FastAPI` · `Pandas` · `PostgreSQL/SQLite` · `Docker` | Calidad de datos antes de producción: carga CSV/XLSX/JSON, perfilado automático, puntaje por dimensiones, detección de duplicados, vacíos y derivas | [Código](https://github.com/Marusan94/dq-observatory) |
+| **[EDU.CORE](https://github.com/Marusan94/plataforma-estudiantil)** | `Java Spring Boot` · `JPA` · `JavaScript` · `CSS` · `SQL` · `Docker` | Gestión y acompañamiento estudiantil: API REST por capas, autenticación por roles, módulos académicos y frontend con persistencia relacional | [Código](https://github.com/Marusan94/plataforma-estudiantil) |
+| **[Tech Interview Lab](https://github.com/Marusan94/tech-interview-lab)** | `Next.js` · `TypeScript` · `Tailwind` · `SQLite/WASM` · `Tutor con IA` · `Vitest` | Práctica de SQL gamificada: 16 retos en el navegador + 3 de JS, tutor con IA, repaso espaciado y seguimiento de progreso | [🚀 Live](https://tech-interview-bwx5ib0ib-maru-de07.vercel.app) |
+| **[Pulso GitHub](https://github.com/Marusan94/pulso-github)** | `Python` · `GitHub API` · `GitHub Actions` · `Playwright` | Ranking en español del ecosistema: 500 repos + 200 tendencias, buscador, analytics y visualización 3D con actualización semanal automática | [Ver en vivo](https://marusan94.github.io/pulso-github/) |
+| **[DataFlow](https://github.com/Marusan94/DataFlow)** | `Python` · `Streamlit` · `Pandas` | Hub de analítica de datos agnóstico: analizar → evaluar → asistir → actuar | [Ver en vivo](https://eduanalytics.onrender.com) |
 
 ## 💼 Experiencia
 
