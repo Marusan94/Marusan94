@@ -21,17 +21,17 @@ Desarrollador de software con 6+ años en tecnología, datos y educación. Const
 **Analista TI — SURA** · Jul 2023 – Dic 2024
 Interfaces React conectadas a servicios backend e integración de APIs. Automatización con Python y RPA (UiPath). SQL, reportes, KPIs y tickets en producción bajo SLA.
 
-**Customer Service Specialist — Bancolombia** · Jul 2021 – Oct 2023
-Soporte multicanal (voz y chat) a 2M+ clientes del sector financiero. Resolución de casos, seguimiento de SLA y consulta de bases de datos.
+**Customer Service — Bancolombia** · Jul 2021 – Oct 2023
+Resolución y escalamiento de tickets con seguimiento de SLA. Análisis de casos en bases de datos para diagnóstico y reportes. Monitoreo de KPIs de servicio en Excel y análisis de indicadores de calidad.
 
-**Customer Service Specialist — Tigo** · Oct 2019 – Jun 2021
-Soporte multicanal a clientes de telecomunicaciones. Manejo de casos y escalamiento con foco en satisfacción del cliente.
+**Customer Service — Tigo** · Oct 2019 – Jun 2021
+Análisis de casos y reportes de operación en Excel para el seguimiento de indicadores. Gestión de tickets y escalamiento a áreas técnicas. Medición de KPIs de satisfacción y tiempos de resolución.
 
 **Tutor TI de Programación — Cymetria** · Ene – Jun 2026
 Diseño de cursos y materiales: lógica de programación, Python y análisis de datos. Dirección técnica de desarrollos llevados a despliegue.
 
 **Tutor TI — AlgoNova** · Nov 2025 – Ago 2026
-Escuela internacional online (90+ países). Roblox Studio (Lua, mundos 3D) y Scratch. Sesiones en vivo y seguimiento de progreso.
+Escuela internacional online (90+ países). Python, Roblox Studio (Lua, mundos 3D) y Scratch. Sesiones en vivo y seguimiento del progreso de cada estudiante.
 
 **Coordinador de plataforma de inscripción — Smart Films** · Jun – Sep 2025
 Administración de plataforma en WordPress: contenidos, usuarios y formularios. Base de datos de inscritos y producción audiovisual del festival.
