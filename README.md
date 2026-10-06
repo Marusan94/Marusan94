@@ -12,6 +12,7 @@ Desarrollador de software con 6+ años en tecnología, datos y educación. Const
 - **Problema:** Los datos de calidad del aire existen pero nadie los entiende.
 - **Automatización:** Mapa 3D que se actualiza solo + copiloto multi-LLM con RAG normativo: preguntas en español, responde con fuentes.
 - **Resultado:** Cualquiera consulta el aire de su ciudad sin saber de datos.
+- **Incluye:** datos SIATA en vivo (PM2.5/PM10 y AQI por comuna), radar de lluvia, mapa 3D del valle, series de pronóstico y RAG normativo con citas.
 - `React 18/TS` · `Tailwind` · `FastAPI` · `PostgreSQL/PostGIS` · `Redis` · `Multi-LLM` · `Docker` · `CI/CD` — [Demo →](https://terramind-mu.vercel.app) · [Código →](https://github.com/Marusan94/Terramind)
 
 ### 02 · [DQ Observatory](https://github.com/Marusan94/dq-observatory)
@@ -19,6 +20,7 @@ Desarrollador de software con 6+ años en tecnología, datos y educación. Const
 - **Problema:** Duplicados, vacíos y drift llegan a producción y rompen reportes.
 - **Automatización:** Subes un CSV y obtienes perfilado, puntaje por dimensiones y alertas, sin configurar nada.
 - **Resultado:** El error se detecta antes de costar dinero.
+- **Incluye:** carga CSV/XLSX/JSON, perfilado automático, puntaje por dimensiones, detección de duplicados y vacíos, drift entre versiones, limpieza con vista previa y reglas de validación.
 - `React` · `TypeScript` · `FastAPI` · `Pandas` · `PostgreSQL/SQLite` · `Docker` — [Demo →](https://dq-observatory.onrender.com) · [Código →](https://github.com/Marusan94/dq-observatory)
 
 ### 03 · [Pulso GitHub](https://github.com/Marusan94/pulso-github)
@@ -26,6 +28,7 @@ Desarrollador de software con 6+ años en tecnología, datos y educación. Const
 - **Problema:** Nadie mantiene un ranking del open source en español.
 - **Automatización:** GitHub Actions lee la API, rankea 500 repos y publica la web sin intervención.
 - **Resultado:** Ranking vivo en español, actualizado solo.
+- **Incluye:** top 500 repos + 200 tendencias, buscador y filtros por categoría, analytics con curvas y radar, noticias generadas desde los datos y galaxia 3D, 17 temas visuales.
 - `Python` · `GitHub API` · `GitHub Actions` · `Playwright` — [Demo →](https://marusan94.github.io/pulso-github/) · [Código →](https://github.com/Marusan94/pulso-github)
 
 ### 04 · [Query Lands](https://github.com/Marusan94/query-lands)
@@ -33,6 +36,7 @@ Desarrollador de software con 6+ años en tecnología, datos y educación. Const
 - **Problema:** Aprender SQL exige instalar entornos y resulta aburrido.
 - **Automatización:** 16 retos SQL + 3 de JS corriendo en el navegador, con tutor IA que corrige al instante.
 - **Resultado:** Practicas desde el primer clic, con cero fricción.
+- **Incluye:** viaje gamificado por islas, editor con validación SQLite en el navegador, tutor IA socrático, simulacros con rúbrica, repaso espaciado, logros y certificado.
 - `Next.js` · `TypeScript` · `Tailwind` · `SQLite/WASM` · `Tutor IA` · `Vitest` — [Demo →](https://tech-interview-lab.vercel.app) · [Código →](https://github.com/Marusan94/query-lands)
 
 ### 05 · [DataFlow](https://github.com/Marusan94/DataFlow)
@@ -40,6 +44,7 @@ Desarrollador de software con 6+ años en tecnología, datos y educación. Const
 - **Problema:** Analizar datos exige varias herramientas y saber programar.
 - **Automatización:** Hub donde subes datos y analizas, evalúas y actúas en un solo lugar.
 - **Resultado:** Desplegado y usable hoy.
+- **Incluye:** flujo analizar → evaluar → asistir → actuar, funciona con cualquier CSV, visualizaciones Plotly, IA opcional por API y autenticación con roles.
 - `Python` · `Streamlit` · `Pandas` · `Plotly` — [Demo →](https://eduanalytics.onrender.com) · [Código →](https://github.com/Marusan94/DataFlow)
 
 ## 💼 Experiencia
