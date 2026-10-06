@@ -7,14 +7,40 @@ Desarrollador de software con 6+ años en tecnología, datos y educación. Const
 
 ## 🚀 Proyectos Destacados
 
-| Proyecto | Stack | Qué es | Demo |
-|----------|-------|--------|------|
-| **[Terramind](https://github.com/Marusan94/Terramind)** | `React 18/TS` · `Tailwind` · `FastAPI` · `PostgreSQL/PostGIS` · `Redis` · `Multi-LLM` · `Docker` · `CI/CD` | Calidad del aire con IA: datos en vivo de SIATA (PM2.5/PM10 y AQI por comuna), radar de lluvia, mapa 3D, copiloto con RAG normativo | [Ver en vivo](https://terramind-mu.vercel.app) |
-| **[DQ Observatory](https://github.com/Marusan94/dq-observatory)** | `React` · `TypeScript` · `FastAPI` · `Pandas` · `PostgreSQL/SQLite` · `Docker` | Calidad de datos antes de producción: carga CSV/XLSX/JSON, perfilado automático, puntaje por dimensiones, detección de duplicados, vacíos y derivas | [Ver en vivo](https://dq-observatory.onrender.com) |
-| **[EDU.CORE](https://github.com/Marusan94/plataforma-estudiantil)** | `Java Spring Boot` · `JPA` · `JavaScript` · `CSS` · `SQL` · `Docker` | Gestión y acompañamiento estudiantil: API REST por capas, autenticación por roles, módulos académicos y frontend con persistencia relacional | [Ver en vivo](https://educore-frontend-co5c.onrender.com) |
-| **[Query Lands](https://github.com/Marusan94/query-lands)** | `Next.js` · `TypeScript` · `Tailwind` · `SQLite/WASM` · `Tutor con IA` · `Vitest` | Práctica de SQL gamificada: 16 retos en el navegador + 3 de JS, tutor con IA, repaso espaciado y seguimiento de progreso | [🚀 Live](https://tech-interview-lab.vercel.app) |
-| **[Pulso GitHub](https://github.com/Marusan94/pulso-github)** | `Python` · `GitHub API` · `GitHub Actions` · `Playwright` | Ranking en español del ecosistema: 500 repos + 200 tendencias, buscador, analytics y visualización 3D con actualización semanal automática | [Ver en vivo](https://marusan94.github.io/pulso-github/) |
-| **[DataFlow](https://github.com/Marusan94/DataFlow)** | `Python` · `Streamlit` · `Pandas` | Hub de analítica de datos agnóstico: analizar → evaluar → asistir → actuar | [Ver en vivo](https://eduanalytics.onrender.com) |
+### 01 · [Terramind](https://github.com/Marusan94/Terramind)
+**Copiloto IA sobre datos ambientales en vivo**
+- **Problema:** Los datos de calidad del aire existen pero nadie los entiende.
+- **Automatización:** Mapa 3D que se actualiza solo + copiloto multi-LLM con RAG normativo: preguntas en español, responde con fuentes.
+- **Resultado:** Cualquiera consulta el aire de su ciudad sin saber de datos.
+- `React 18/TS` · `Tailwind` · `FastAPI` · `PostgreSQL/PostGIS` · `Redis` · `Multi-LLM` · `Docker` · `CI/CD` — [Demo →](https://terramind-mu.vercel.app) · [Código →](https://github.com/Marusan94/Terramind)
+
+### 02 · [DQ Observatory](https://github.com/Marusan94/dq-observatory)
+**Puerta de calidad automática para tus datos**
+- **Problema:** Duplicados, vacíos y drift llegan a producción y rompen reportes.
+- **Automatización:** Subes un CSV y obtienes perfilado, puntaje por dimensiones y alertas, sin configurar nada.
+- **Resultado:** El error se detecta antes de costar dinero.
+- `React` · `TypeScript` · `FastAPI` · `Pandas` · `PostgreSQL/SQLite` · `Docker` — [Demo →](https://dq-observatory.onrender.com) · [Código →](https://github.com/Marusan94/dq-observatory)
+
+### 03 · [Pulso GitHub](https://github.com/Marusan94/pulso-github)
+**Pipeline de datos que se publica solo**
+- **Problema:** Nadie mantiene un ranking del open source en español.
+- **Automatización:** GitHub Actions lee la API, rankea 500 repos y publica la web sin intervención.
+- **Resultado:** Ranking vivo en español, actualizado solo.
+- `Python` · `GitHub API` · `GitHub Actions` · `Playwright` — [Demo →](https://marusan94.github.io/pulso-github/) · [Código →](https://github.com/Marusan94/pulso-github)
+
+### 04 · [Query Lands](https://github.com/Marusan94/query-lands)
+**Máquina de práctica SQL sin instalación**
+- **Problema:** Aprender SQL exige instalar entornos y resulta aburrido.
+- **Automatización:** 16 retos SQL + 3 de JS corriendo en el navegador, con tutor IA que corrige al instante.
+- **Resultado:** Practicas desde el primer clic, con cero fricción.
+- `Next.js` · `TypeScript` · `Tailwind` · `SQLite/WASM` · `Tutor IA` · `Vitest` — [Demo →](https://tech-interview-lab.vercel.app) · [Código →](https://github.com/Marusan94/query-lands)
+
+### 05 · [DataFlow](https://github.com/Marusan94/DataFlow)
+**Analítica self-service**
+- **Problema:** Analizar datos exige varias herramientas y saber programar.
+- **Automatización:** Hub donde subes datos y analizas, evalúas y actúas en un solo lugar.
+- **Resultado:** Desplegado y usable hoy.
+- `Python` · `Streamlit` · `Pandas` · `Plotly` — [Demo →](https://eduanalytics.onrender.com) · [Código →](https://github.com/Marusan94/DataFlow)
 
 ## 💼 Experiencia
 
